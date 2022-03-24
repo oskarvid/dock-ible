@@ -1,5 +1,7 @@
 # Dock-ible - A Docker and Ansible tool for rapid ansible development
 
+N.B: Don't worry about the provided private key, it's required for the docker image and obviously isn't private anymore.
+
 ## Instructions
 `./dock-ible.sh <argument>` will run the tool with your desired argument.  
 The four basic arguments are as follows:  
